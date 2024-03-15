@@ -601,6 +601,9 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  width: 500px; /* Defina o tamanho desejado para as imagens */
+  height: auto; /* Mantém a proporção da imagem */
+  margin-right: 10px; /* Ajusta a margem entre as imagens (opcional) */
 }
 
 .img-thumbnail {
